@@ -18,7 +18,7 @@
     class Niño {
         public function juego()
         {
-            throw new Exception("El niño puede jugar");
+            echo "El niño puede jugar";
         }
     }
 
